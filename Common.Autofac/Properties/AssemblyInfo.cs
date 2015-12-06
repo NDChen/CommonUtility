@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Log4netSqlDBTest")]
+[assembly: AssemblyTitle("Common.Autofac")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Log4netSqlDBTest")]
+[assembly: AssemblyProduct("Common.Autofac")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("f116d45c-3fc6-4f77-ad4f-26261d1c66e9")]
+[assembly: Guid("e1b91aad-0b84-43f1-b7da-ad659c3e3cea")]
 
 // Version information for an assembly consists of the following four values:
 //
